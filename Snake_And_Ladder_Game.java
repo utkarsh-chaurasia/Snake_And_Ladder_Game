@@ -2,7 +2,7 @@
 //Utkarsh Chaurasia
 import java.util.*;
 
-public class Snake_And_Ladder_20115091_Shilpa_Sahu {
+public class Snake_And_Ladder_Game {
 
     public void cls() { // Function for CLEAR SCREEN
         System.out.print("\033[H\033[2J");
