@@ -15,9 +15,11 @@ public class Snake_And_Ladder_Game {
                 return 8;
             case 21:
                 return 19;
+            case 35:
+                return 3;
             case 37:
                 return 22;
-            case 54:
+            case 54: 
                 return 34;
             case 59:
                 return 44;
