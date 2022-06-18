@@ -57,3 +57,10 @@ at the bottom of a ladder, you can move up to the top of the
 ladder.
 
 # Input Output Explanation
+![image](https://user-images.githubusercontent.com/52343042/174440907-b980adef-b1ec-48cc-9456-f2cea65479fe.png)
+![image](https://user-images.githubusercontent.com/52343042/174441390-e7fa9547-9db2-4a33-88c1-e9f1aee7f9b7.png)
+![image](https://user-images.githubusercontent.com/52343042/174441412-de036baf-a204-4b94-9b99-28945a231594.png)
+![image](https://user-images.githubusercontent.com/52343042/174441464-1ce0e0fb-11f5-4746-911d-2cf96b189fb4.png)
+![image](https://user-images.githubusercontent.com/52343042/174441720-b1d87816-0539-43ec-bc83-5ccc2cb1b46e.png)
+
+
