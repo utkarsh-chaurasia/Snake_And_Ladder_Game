@@ -59,8 +59,9 @@ ladder.
 # Input Output Explanation
 ![image](https://user-images.githubusercontent.com/52343042/174440907-b980adef-b1ec-48cc-9456-f2cea65479fe.png)
 ![image](https://user-images.githubusercontent.com/52343042/174441390-e7fa9547-9db2-4a33-88c1-e9f1aee7f9b7.png)
-![image](https://user-images.githubusercontent.com/52343042/174441412-de036baf-a204-4b94-9b99-28945a231594.png)
-![image](https://user-images.githubusercontent.com/52343042/174441464-1ce0e0fb-11f5-4746-911d-2cf96b189fb4.png)
-![image](https://user-images.githubusercontent.com/52343042/174441720-b1d87816-0539-43ec-bc83-5ccc2cb1b46e.png)
+![image](https://user-images.githubusercontent.com/52343042/174441811-a675a3d6-5a7e-4174-a009-ff15da8ce317.png)
+![image](https://user-images.githubusercontent.com/52343042/174441907-e8d2a121-35e2-4632-982a-6b4a5dcfcb6f.png)
+![image](https://user-images.githubusercontent.com/52343042/174441933-53c2c0ad-96d4-4ec5-80fc-e41e8cd1876b.png)
+
 
 
