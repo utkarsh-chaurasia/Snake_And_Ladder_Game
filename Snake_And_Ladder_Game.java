@@ -86,7 +86,7 @@ public class Snake_And_Ladder_Game {
         String PURPLE_BOLD_BRIGHT = "\033[1;95m";// PURPLE
 
         Scanner sc = new Scanner(System.in);
-        Snake_And_Ladder_20115091_Shilpa_Sahu obj = new Snake_And_Ladder_20115091_Shilpa_Sahu();
+        Snake_And_Ladder_Game obj = new Snake_And_Ladder_Game();
 
         obj.cls();
         int[][] store = { { 100, 99, 98, 97, 96, 95, 94, 93, 92, 91 }, // To create the BOARD
